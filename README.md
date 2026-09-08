@@ -6,5 +6,5 @@ For details about Kali Linux metapackages, check https://www.kali.org/news/kali-
 (BSD/BDSM)
 NO SYSTEM IS SAFE & NO SYSTEM IS SIMPEL
 
-[![Post Title](Screenshot 2026-09-08 at 14-06-53 Instagram.png)](https://www.instagram.com/p/DOxJ8Sck-mj/)
+[![Post Title](Screenshot_2026-09-08_at_14-06-53_Instagram.png)](https://www.instagram.com/p/DOxJ8Sck-mj/)
 
